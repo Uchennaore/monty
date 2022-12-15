@@ -1,2 +1,2 @@
-# monty
+# Monty
 The Monty language
